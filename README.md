@@ -4,23 +4,24 @@ A lightweight, open-source format for building and sharing group travel itinerar
 
 > Built for digital nomads, travel agents, and group leaders who need structured, portable travel plans.
 
-## ✈️ Why This Exists
+## Why This Exists
 
 - Make itinerary planning easier for group tours
 - Use simple file formats that can be shared or rendered anywhere
 - Build trip templates for common travel types
 
-## 📁 Repo Structure
+## Repo Structure
 
 - `/templates/` → Sample itineraries in `.md` and `.json`
 - `/docs/` → Guide and usage
 - `/schema/` → JSON structure definition (basic validation)
 
-## 💡 Example Use Case
+## Example Use Case
 
-This format is used by a [Filipino travel agency in Toronto that organizes Europe tours with payment plans](https://reliabletours.systeme.io). It supports multi-day trips, bus stops, accommodation notes, and optional group activities.
+This format is inspired by community-based tour operator organizing Europe trips with flexible payment options.  
+[Learn more](https://reliabletours.systeme.io). It supports multi-day trips, bus stops, accommodation notes, and optional group activities.
 
-## 🛠️ How to Use
+## How to Use
 
 You can:
 1. Fork the repo
