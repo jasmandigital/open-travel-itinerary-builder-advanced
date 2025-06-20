@@ -1,0 +1,25 @@
+{
+  "title": "5-Day Bus Tour Sample",
+  "days": [
+    {
+      "day": 1,
+      "activities": ["Depart Toronto", "Arrive in Old Quebec City", "Hotel check-in", "Welcome dinner"]
+    },
+    {
+      "day": 2,
+      "activities": ["Visit Château Frontenac", "Old Port walk", "Group dinner"]
+    },
+    {
+      "day": 3,
+      "activities": ["Drive to Hopewell Rocks", "Lunch in Moncton", "Overnight in Edmundston"]
+    },
+    {
+      "day": 4,
+      "activities": ["Free time", "Optional Mass", "Casino"]
+    },
+    {
+      "day": 5,
+      "activities": ["Hotel check-out", "Return to Toronto"]
+    }
+  ]
+}
