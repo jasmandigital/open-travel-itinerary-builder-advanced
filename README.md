@@ -18,8 +18,7 @@ A lightweight, open-source format for building and sharing group travel itinerar
 
 ## Example Use Case
 
-This format is inspired by community-based tour operator organizing Europe trips with flexible payment options.  
-[Learn more](https://reliabletours.systeme.io). It supports multi-day trips, bus stops, accommodation notes, and optional group activities.
+This format is inspired by community-based tour operator organizing Europe trips with flexible payment options. [Learn more](https://reliabletours.systeme.io). It supports multi-day trips, bus stops, accommodation notes, and optional group activities.
 
 ## How to Use
 
